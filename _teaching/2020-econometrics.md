@@ -1,5 +1,5 @@
 ---
-title: "Ökonometrie (Econometrics)"
+title: "Ökonometrie"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2012-econometrics
@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Für die persönliche Spreachstunde trage dich bitte in einen der Slots ein :[Sprechstundenslots](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UVBFdGYzZ2JRdWRJfGRlZmF1bHR8MjEwYWZhYWM5MTQ1NzQ3NTNjMTAwNzY5YWZlM2U1MDI)
 
 Heading 1
 ======
